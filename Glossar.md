@@ -7,7 +7,7 @@ Gut um schnell Inhalte zu finden.
     <dd>Erklärung</dd>
 
     <dt>Unified Modeling Language (UML)</dt>
-    <dd>Unified Modeling Language ist ... [Wiki-Page](content/diagramme/UML25)</dd>
+    <dd>Unified Modeling Language ist ... [Wiki-Page](UML25)</dd>
 
 
 </dl>
