@@ -4,9 +4,9 @@ Zusammenfassende Beschreibung
 
 ## Erläuterungen
 
-### Wichtig für
+### Aufgabenteil
 
-Aufgabenteil G1
+Aufgabenteil GA1
 
 ### Komponenten
 
