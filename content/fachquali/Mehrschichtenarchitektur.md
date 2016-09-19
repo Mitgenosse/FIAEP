@@ -20,7 +20,7 @@ die niedrigere Schicht und der Client die höhere. Dies nennt man *Client-Server
 Die Rechenkapazität wird bei dieser Form häufig auf den Client-Rechner ausgelagert. 
 Der Server bietet lediglich eine [Datenbankanwendung](Datenbankanwendung).
 
-![2-Tier Architektur](2tierarchitektur)
+![Two Tier Architecture](https://github.com/Gurkenschreck/FIAEP/blob/master/content/resources/img/2-Tier.jpg)
 
 ### Drei-Schichten-Architektur (*three tier architecture*)
 
@@ -36,9 +36,7 @@ Hier ist die Anwendungslogik abgebildet.
 * Datenhaltungsschicht/Persistenzschicht (*data-server tier* oder *back end*): Enthält die Datenbank und ist für das Speichern und Laden von
 Daten verantwortlich.
 
+![Three Tier Architecture](https://github.com/Gurkenschreck/FIAEP/blob/master/content/resources/img/3-Tier.jpg)
 
 ### Resources
 [Schichtenarchitektur Wikipedia](https://de.wikipedia.org/wiki/Schichtenarchitektur)
-
-[2tierarchitektur]: ../resources/2-Tier.jpg
-[3tierarchitektur]: ../resources/3-Tier.jpg
