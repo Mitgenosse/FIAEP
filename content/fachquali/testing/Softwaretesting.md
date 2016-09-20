@@ -1,17 +1,21 @@
 # Softwaretests
 
+Softwaretests gewährleisten die [Softwarequalität](Softwarequalitaet).
 
 ### Begriffe
 
 * Blackbox
 * Whitebox
 
-
+Sollten erklärt werden, 
 * Unittests
 * UI Tests
-* Integraion Tests
+* Integration Tests
 * Lasttest
 * Akzeptanztests
+* Abnahmetests
+
+### Testdokumente und Berichte
 
 ### Test Driven Development (TDD)
 

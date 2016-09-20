@@ -14,6 +14,12 @@ Gut um schnell Inhalte zu finden.
     <dt><a href="Analyse">Analyse (Software)</a></dt>
     <dd></dd>
 
+    <dt><a href="Android">Android (Betriebssystem)</a></dt>
+    <dd></dd>
+
+    <dt><a href="Applikation">Applikation</a></dt>
+    <dd></dd>
+
     <dt><a href="Authentifizierung">Authentifizierung</a></dt>
     <dd>Der Begriff Authentifizierung beschreibt den Vorgang die Identität eines Nutzers zu bestätigen.</dd>
 
@@ -61,6 +67,12 @@ Gut um schnell Inhalte zu finden.
     
     <dt><a href="Komprimierung">Kompression / Komprimierung</a></dt>
     <dd></dd>
+
+    <dt><a href="Kryptographie">Kryptographie / Verschlüsselung</a></dt>
+    <dd></dd>
+
+    <dt><a href="Microsoft">Microsoft</a></dt>
+    <dd></dd>
     
     <dt><a href="Normalisierung">Normalisierung</a></dt>
     <dd></dd>
@@ -86,8 +98,8 @@ Gut um schnell Inhalte zu finden.
     <dt><a href="Refactoring">Refactoring</a></dt>
     <dd></dd>
 
-    <dt><a href="UML25">Unified Modeling Language (UML)</a></dt>
-    <dd>Die Unified Modeling Language ist eine ... Die neuste Spezifikation ist die UML 2.5.</dd>
+    <dt><a href="RSA">RSA (Verschlüsselung)</a></dt>
+    <dd></dd>
 
     <dt><a href="Schleifen">Schleifen</a></dt>
     <dd></dd>
@@ -100,6 +112,9 @@ Gut um schnell Inhalte zu finden.
     
     <dt><a href="Softwaretesting">Softwaretesting</a></dt>
     <dd></dd>
+
+    <dt><a href="Softwarequalitaet">Softwarequalität</a></dt>
+    <dd></dd>
     
     <dt><a href="Spiralmodell">Spiralmodell</a></dt>
     <dd></dd>
@@ -110,9 +125,15 @@ Gut um schnell Inhalte zu finden.
     <dt><a href="Struktogramm">Struktogramm</a></dt>
     <dd></dd>
     
+    <dt><a href="UML25">Unified Modeling Language (UML)</a></dt>
+    <dd>Die Unified Modeling Language ist eine ... Die neuste Spezifikation ist die UML 2.5.</dd>
+    
     <dt><a href="Use-Case-Diagramm">Use-Case-Diagramm</a></dt>
     <dd></dd>
     
+    <dt><a href="VirtualMachine">Virtuelle Maschine</a></dt>
+    <dd></dd>
+
     <dt><a href="V-Modell">V-Modell</a></dt>
     <dd></dd>
     
@@ -123,6 +144,9 @@ Gut um schnell Inhalte zu finden.
     <dd>Die Fachqualifikation (ganzheitliche Aufgabe 1 / GA1) ist der dritte Aufgabenteil der schriftlichen Abschlussprüfung.</dd>
     
     <dt><a href="XML">Extensive Markup Language (XML)</a></dt>
+    <dd></dd>
+
+    <dt><a href="Zustandsdiagramm">Zustandsdiagramm (UML)</a></dt>
     <dd></dd>
 </dl>
 

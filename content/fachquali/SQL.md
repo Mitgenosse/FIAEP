@@ -8,5 +8,9 @@ SQL-Kategorien
 * DCL (Data Control Language)
 * Transaktionssteuerung
 
-### Resources
+### Abfragen
 
+Seletionsabfragen: SELECT, SELECT mit JOIN, SELECT mit Unterabfragen, SELECT mit Self-Join, SELECT mit Aggregatfunktionen
+
+### Resources
+[w3schools](www.w3schools.com)
