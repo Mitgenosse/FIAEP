@@ -8,6 +8,8 @@ Gut um schnell Inhalte zu finden.
 
     <hr />
 
+    <dt><a href="ACL">Aktivitätsdiagramm (UML)</a></dt>
+    <dd></dd>
     <dt><a href="Aktivitaetsdiagramm">Aktivitätsdiagramm (UML)</a></dt>
     <dd></dd>
     <dt><a href="Analyse">Analyse (Software)</a></dt>
@@ -23,18 +25,22 @@ Gut um schnell Inhalte zu finden.
 
     <dt><a href="Backup">Backup / Datensicherung</a></dt>
     <dd></dd>
+    <dt><a href="Betriebssystem">Betriebssystem</a></dt>
+    <dd></dd>
     <dt><a href="Bezugsquellenermittlung">Bezugspreis</a></dt>
     <dd></dd>
     <dt><a href="Bezugsquellenermittlung">Bezugsquellenermittlung</a></dt>
     <dd></dd>
-    <dt><a href="Browser">WebBrowser</a></dt>
+    <dt><a href="Browser">Browser</a></dt>
     <dd></dd>
     <dt><a href="BGB">Bürgerliches Gesetzbuch (BGB)</a></dt>
     <dd></dd>
     <dt><a href="Bubblesort">Bubblesort (Sortieralgorithmus)</a></dt>
     <dd></dd>
+    <dt><a href="BSI">Bundesamt für Sicherheit in der Informationstechnik (BSI)</a></dt>
+    <dd></dd>
 
-    <dt><a href="Cloud-Computing"></a></dt>
+    <dt><a href="Cloud-Computing">Cloud-Computing</a></dt>
     <dd></dd>
     <dt><a href="CASE">Computer-aided software engineering</a></dt>
     <dd></dd>
@@ -45,6 +51,8 @@ Gut um schnell Inhalte zu finden.
     <dd></dd>
     <dt><a href="Datenbanksystem">Datenbanksystem</a></dt>
     <dd> </dd>
+    <dt><a href="Datensicherheit">Datensicherheit</a></dt>
+    <dd></dd>
     <dt><a href="Datenuebertragung">Datenübertragung</a></dt>
     <dd></dd>
     <dt><a href="Debugging">Debugging</a></dt>
@@ -89,6 +97,8 @@ Gut um schnell Inhalte zu finden.
     <dt><a href="MVC">Model-View-Controller GUI-Muster</a></dt>
     <dd></dd>
     
+    <dt><a href="Netzwerk">Netzwerk</a></dt>
+    <dd></dd>
     <dt><a href="Normalisierung">Normalisierung</a></dt>
     <dd></dd>
     <dt><a href="Nutzwertanalyse">Nutzwertanalyse</a></dt>
@@ -105,6 +115,8 @@ Gut um schnell Inhalte zu finden.
     <dd></dd>
     <dt><a href="projektablaufplan">Projektablaufplan</a></dt>
     <dd></dd>
+    <dt><a href="Protokoll">Protokoll</a></dt>
+    <dd></dd>
     <dt><a href="Proxy">Proxy</a></dt>
     <dd></dd>
     <dt><a href="Prozessor">Prozessor / Central Processing Unit (CPU)</a></dt>
@@ -112,6 +124,8 @@ Gut um schnell Inhalte zu finden.
     <dt><a href="Pseudocode">Pseudocode</a></dt>
     <dd></dd>
     
+    <dt><a href="RAID">Redundant Array of Independent Disks (RAID)</a></dt>
+    <dd></dd>
     <dt><a href="Refactoring">Refactoring</a></dt>
     <dd></dd>
     <dt><a href="RSA">RSA (Verschlüsselung)</a></dt>
@@ -123,12 +137,16 @@ Gut um schnell Inhalte zu finden.
     <dd></dd>
     <dt><a href="Sequenzdiagramm">Sequenzdiagramm</a></dt>
     <dd></dd>
+    <dt><a href="Server">Server</a></dt>
+    <dd></dd>
     <dt><a href="Software-Architektur">Software Architektur</a></dt>
     <dd></dd>
     <dt><a href="Softwaretesting">Softwaretesting</a></dt>
     <dd></dd>
     <dt><a href="Softwarequalitaet">Softwarequalität</a></dt>
     <dd></dd>
+    <dt><a href="Speichersystem">Speichersystem</a></dt>
+    <dd>DAS, NAS und SAN</dd>
     <dt><a href="Spiralmodell">Spiralmodell</a></dt>
     <dd></dd>
     <dt><a href="SQL">Structured Query Language (SQL)</a></dt>
@@ -138,6 +156,8 @@ Gut um schnell Inhalte zu finden.
     
     <dt><a href="UML25">Unified Modeling Language (UML)</a></dt>
     <dd>Die Unified Modeling Language ist eine ... Die neuste Spezifikation ist die UML 2.5.</dd>
+    <dt><a href="Datensicherheit">Unterbrechungsfreie Stromversorgung (USV)</a></dt>
+    <dd></dd>
     <dt><a href="Use-Case-Diagramm">Use-Case-Diagramm</a></dt>
     <dd></dd>
 
