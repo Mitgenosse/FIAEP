@@ -75,6 +75,8 @@ Gut um schnell Inhalte zu finden.
     <dt><a href="Freie-Software">Freie Software</a></dt>
     <dd></dd>
 
+    <dt><a href="Hexadezimal">Hexadezimales Zahlensystem</a></dt>
+    <dd></dd>
     <dt><a href="HTML5">HyperText Markup Language 5</a></dt>
     <dd></dd>
 
