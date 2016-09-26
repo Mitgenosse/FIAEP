@@ -77,6 +77,11 @@ Gut um schnell Inhalte zu finden.
 
     <dt><a href="HTML5">HyperText Markup Language 5</a></dt>
     <dd></dd>
+
+    <dt><a href="IPv4">Internet Protokoll version 4 (IPv4)</a></dt>
+    <dd></dd>
+    <dt><a href="IPv6">Internet Protokoll version 6 (IPv6)</a></dt>
+    <dd></dd>
     
     <dt><a href="Java">Java (Programmiersprache)</a></dt>
     <dd></dd>
@@ -108,7 +113,9 @@ Gut um schnell Inhalte zu finden.
     <dd></dd>
     <dt><a href="Objektorientierung">Objektorientierung</a></dt>
     <dd></dd>
-    
+    <dt><a href="OSI">Open Systems Interconnection model (OSI model)</a></dt>
+    <dd></dd>
+
     <dt><a href="Planung">Planung (Software)</a></dt>
     <dd></dd>
     <dt><a href="Programmiersprachen">Programmiersprachen</a></dt>
@@ -162,6 +169,8 @@ Gut um schnell Inhalte zu finden.
     <dd></dd>
 
     <dt><a href="VirtualMachine">Virtuelle Maschine</a></dt>
+    <dd></dd>
+    <dt><a href="VLAN">Virtual Local Area Network (VLAN)</a></dt>
     <dd></dd>
     <dt><a href="V-Modell">V-Modell</a></dt>
     <dd></dd>
