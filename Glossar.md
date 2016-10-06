@@ -16,6 +16,8 @@ Gut um schnell Inhalte zu finden.
     <dd></dd>
     <dt><a href="Android">Android (Betriebssystem)</a></dt>
     <dd></dd>
+    <dt><a href="Anwendungsfalldiagramm">Anwendungfalldiagramm (UML)</a></dt>
+    <dd></dd>
     <dt><a href="Applikation">Applikation</a></dt>
     <dd></dd>
     <dt><a href="Authentifizierung">Authentifizierung</a></dt>
@@ -31,6 +33,8 @@ Gut um schnell Inhalte zu finden.
     <dd></dd>
     <dt><a href="Bezugsquellenermittlung">Bezugsquellenermittlung</a></dt>
     <dd></dd>
+    <dt><a href="Bit">Bit (Einheit)</a></dt>
+    <dd>Bit, Byte, MiBit, MiByte. Sowas.</dd>
     <dt><a href="Browser">Browser</a></dt>
     <dd></dd>
     <dt><a href="BGB">Bürgerliches Gesetzbuch (BGB)</a></dt>
@@ -72,6 +76,8 @@ Gut um schnell Inhalte zu finden.
     <dd>Die Fachqualifikation (ganzheitliche Aufgabe 1 / GA1) ist der erste Aufgabenteil der schriftlichen Abschlussprüfung.</dd>
     <dt><a href="Festplatte">Festplatte</a></dt>
     <dd></dd>
+    <dt><a href="Firewall">Firewall</a></dt>
+    <dd></dd>
     <dt><a href="Freie-Software">Freie Software</a></dt>
     <dd></dd>
 
@@ -84,6 +90,8 @@ Gut um schnell Inhalte zu finden.
     <dd></dd>
     <dt><a href="IPv6">Internet Protokoll version 6 (IPv6)</a></dt>
     <dd></dd>
+    <dt><a href="IT-Sicherheit">IT-Sicherheit</a></dt>
+    <dd>Gefahren durch Virus, SPAM, Brute-Force-Angriffe, DoS, DDoS durch Botnetze</dd>
     
     <dt><a href="Java">Java (Programmiersprache)</a></dt>
     <dd></dd>
@@ -99,11 +107,15 @@ Gut um schnell Inhalte zu finden.
     <dt><a href="Kryptographie">Kryptographie / Verschlüsselung</a></dt>
     <dd></dd>
 
+    <dt><a href="Marketing">Marketing</a></dt>
+    <dd></dd>
     <dt><a href="Microsoft">Microsoft</a></dt>
     <dd></dd>
     <dt><a href="MVC">Model-View-Controller GUI-Muster</a></dt>
     <dd></dd>
     
+    <dt><a href="Netzplantechnik">Netzplantechnik</a></dt>
+    <dd>Netzplan Struktur und Zeitanalyse</dd>
     <dt><a href="Netzwerk">Netzwerk</a></dt>
     <dd></dd>
     <dt><a href="Normalisierung">Normalisierung</a></dt>
@@ -137,6 +149,8 @@ Gut um schnell Inhalte zu finden.
     <dd></dd>
     <dt><a href="Refactoring">Refactoring</a></dt>
     <dd></dd>
+    <dt><a href="RFID">Identifizierung mit Hilfe elektromagnetischer Wellen (RFID)</a></dt>
+    <dd></dd>
     <dt><a href="RSA">RSA (Verschlüsselung)</a></dt>
     <dd></dd>
 
@@ -144,11 +158,15 @@ Gut um schnell Inhalte zu finden.
     <dd></dd>
     <dt><a href="SCRUM">SCRUM (agile Entwicklung)</a></dt>
     <dd></dd>
+    <dt><a href="SLA">Service Level Agreement (SLA)</a></dt>
+    <dd></dd>
     <dt><a href="Sequenzdiagramm">Sequenzdiagramm</a></dt>
     <dd></dd>
     <dt><a href="Server">Server</a></dt>
     <dd></dd>
     <dt><a href="Software-Architektur">Software Architektur</a></dt>
+    <dd></dd>
+    <dt><a href="SaaS">Software as a Service (SaaS)</a></dt>
     <dd></dd>
     <dt><a href="Softwaretesting">Softwaretesting</a></dt>
     <dd></dd>
@@ -170,9 +188,11 @@ Gut um schnell Inhalte zu finden.
     <dt><a href="Use-Case-Diagramm">Use-Case-Diagramm</a></dt>
     <dd></dd>
 
-    <dt><a href="VirtualMachine">Virtuelle Maschine</a></dt>
-    <dd></dd>
+    <dt><a href="Virtualisierung">Virtualisierung</a></dt>
+    <dd>Virtuelle Maschine und Co.</dd>
     <dt><a href="VLAN">Virtual Local Area Network (VLAN)</a></dt>
+    <dd></dd>
+    <dt><a href="VPN">Virtual Private Network (VPN)</a></dt>
     <dd></dd>
     <dt><a href="V-Modell">V-Modell</a></dt>
     <dd></dd>

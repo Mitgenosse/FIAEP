@@ -1,5 +1,0 @@
-# Virtuelle Maschine
-
-...
-
-### Resources
