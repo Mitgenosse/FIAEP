@@ -11,4 +11,8 @@ Testplänen für das zu entwickelnde Softwaresystem.
 
 ![Use-Case-Diagram](https://github.com/Gurkenschreck/FIAEP/blob/master/content/resources/img/use_case_diagram.png)
 
+* Vererbungen zwischen Akteueren werden durch einen geschlossenen Pfeil mit weißer Spitze dargestellt. Der erbende Akteur erhält alle Anwendungsfälle des Vererbenden. Der Pfeil zeigt zu dem vererbenden Akteur.
+
+
 ### Resources
+* [Use-Case-Diagram](https://en.wikipedia.org/wiki/Use_case_diagram)

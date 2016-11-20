@@ -17,7 +17,7 @@ Gut um schnell Inhalte zu finden.
     <dt><a href="Android">Android (Betriebssystem)</a></dt>
     <dd></dd>
     <dt><a href="Anwendungsfalldiagramm">Anwendungfalldiagramm (UML)</a></dt>
-    <dd></dd>
+    <dd>Auch Use-Case-Diagramm. Analysiert die Funktionalitäten der Anwendung.</dd>
     <dt><a href="Applikation">Applikation</a></dt>
     <dd></dd>
     <dt><a href="Authentifizierung">Authentifizierung</a></dt>
