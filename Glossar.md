@@ -165,7 +165,7 @@ Gut um schnell Inhalte zu finden.
     <dt><a href="SCRUM">SCRUM (agile Entwicklung)</a></dt>
     <dd></dd>
     <dt><a href="SLA">Service Level Agreement (SLA)</a></dt>
-    <dd></dd>
+    <dd>Vereinbarung zweier Parteien über Serviceaspekte.</dd>
     <dt><a href="Sequenzdiagramm">Sequenzdiagramm</a></dt>
     <dd></dd>
     <dt><a href="Server">Server</a></dt>
