@@ -22,8 +22,8 @@ Bei der Architektur eines CM-Systems handelt es sich sehr oft um ein [mehrschich
 Es gibt eine Reihe von Vorteilen, welche ein CMS mit sich bringt.
 
 * Einfache Erweiterbarkeit durch modulares System
-* Aktualisierung der Inhalte durch den Kunden oder entsprechend bberechtigte Personen
-* Multi-User-Zugriff ist Möglich --> effizientes arbeiten möglich
+* Aktualisierung der Inhalte durch den Kunden oder entsprechend berechtigte Personen
+* Multi-User-Zugriff ist möglich --> effizientes arbeiten möglich
 
 ### Anwendungsbeispiele
 
