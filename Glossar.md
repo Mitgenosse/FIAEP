@@ -217,7 +217,7 @@ Gut um schnell Inhalte zu finden.
 <dt><a href="Wasserfallmodell">Wasserfallmodell (Entwicklungsmethode)</a></dt>
     <dd></dd>
     <dt><a href="WirtUndSozi">Wirtschafts- und Sozialkunde</a></dt>
-    <dd>Die Fachqualifikation (ganzheitliche Aufgabe 1 / GA1) ist der dritte Aufgabenteil der schriftlichen Abschlussprüfung.</dd>
+    <dd>Der Aufgabenteil 3 "Wirtschafts- und Sozialkunde" ist der dritte Aufgabenteil der schriftlichen Abschlussprüfung.</dd>
     
 <dt><a href="Zustandsdiagramm">Zustandsdiagramm (UML)</a></dt>
     <dd></dd>
