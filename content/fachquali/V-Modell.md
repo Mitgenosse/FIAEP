@@ -19,6 +19,12 @@ beinhalten jeweils die Tests der korrespondierenden Spezifikationen.
 
 Dieses Entwicklungsmodell definiert für jede Phase bereits die Testphasen.
 
+Es ist eine Fortführung des Wasserfallmodells und teilt die Entwicklung
+ebenfalls in Phasen ein. Von der Analyse bis zur Realisierung
+werden diese Phasen durchlaufen. Parallel dazu werden zu jeder Phase die
+entsprechenden Testfälle berücksichtigt. Bei einem Durchlauf der Phasen von oben 
+nach unten und den entsprechenden Tests von unten nach oben entsteht ein V.
+
 ### v-Modell eXtreme Tailoring (XT)
 
 Der Ausdruck Extreme Tailoring (XT) (englisch für extremes zuschneiden)

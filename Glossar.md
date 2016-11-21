@@ -145,6 +145,8 @@ Gut um schnell Inhalte zu finden.
 
 <dt><a href="Planung">Planung (Software)</a></dt>
     <dd></dd>
+    <dt><a href="Programmablaufplan">Programmablaufplan (PAP)</a></dt>
+    <dd></dd>
     <dt><a href="Programmiersprachen">Programmiersprachen</a></dt>
     <dd></dd>
     <dt><a href="projektablaufplan">Projektablaufplan</a></dt>
@@ -174,7 +176,7 @@ Gut um schnell Inhalte zu finden.
 <dt><a href="Schleifen">Schleifen</a></dt>
     <dd></dd>
     <dt><a href="SCRUM">SCRUM (agile Entwicklung)</a></dt>
-    <dd></dd>
+    <dd>Agile Entwicklungsmethode für die Softwareentwicklung.</dd>
     <dt><a href="SLA">Service Level Agreement (SLA)</a></dt>
     <dd>Vereinbarung zweier Parteien über Serviceaspekte.</dd>
     <dt><a href="Sequenzdiagramm">Sequenzdiagramm</a></dt>
