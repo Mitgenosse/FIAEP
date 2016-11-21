@@ -13,18 +13,18 @@ spezifiziert werden. Am Boden des V befindet sich die Umsetzungsphase/Programmie
 Die Phasen der rechten Seite spiegeln sich mit den Phasen der Linken und
 beinhalten jeweils die Tests der korrespondierenden Spezifikationen.
 
-![V-Modell (Wikipedia)](https://de.wikipedia.org/wiki/V-Modell#/media/File:V-Modell.svg)
+![V-Modell (Wikipedia)](https://github.com/Gurkenschreck/FIAEP/blob/master/content/resources/img/V-Modell.png)
 
 ### Wesentliche Merkmale
 
 Dieses Entwicklungsmodell definiert für jede Phase bereits die Testphasen.
 
+### v-Modell eXtreme Tailoring (XT)
 
-
-Welche Phasen korrespondieren mit welchen Tests?
-
-
-Worür steht das XT in der Erweiterung V-Modell XT
+Der Ausdruck Extreme Tailoring (XT) (englisch für extremes zuschneiden)
+beschreibt eine besonders anpassungsfähige Abwandlung des klassischen V-Modells
+und löste dieses 2005 ab.
 
 ### Resources
-
+* [V-Modell (Wikipedia)](https://de.wikipedia.org/wiki/V-Modell)
+* [V-Modell XT (bund.de)](http://www.cio.bund.de/Web/DE/Architekturen-und-Standards/V-Modell-XT/vmodell_xt_node.html)

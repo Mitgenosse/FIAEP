@@ -86,6 +86,9 @@ Gut um schnell Inhalte zu finden.
     <dd></dd>
     <dt><a href="Freie-Software">Freie Software</a></dt>
     <dd></dd>
+    
+<dt><a href="GANTT">Gantt Diagramm</a></dt>
+    <dd>Eine Diagrammart im Projektmanagement um die einzelnen Aufgaben in einem zeitlichen Kontext zu planen.</dd>
 
 <dt><a href="Handelsgesetzbuch">Handelsgesetzbuch (HGB)</a></dt>
     <dd></dd>
