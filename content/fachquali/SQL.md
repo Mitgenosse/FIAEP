@@ -8,9 +8,16 @@ SQL-Kategorien
 * DCL (Data Control Language)
 * Transaktionssteuerung
 
+Kategorie | Befehle
+--- | ---
+DML | SELECT, INSERT, UPDATE, DELETE
+DDL | CREATE, TRUNCATE, ALTER, DROP
+DCL | GRANT, REVOKE
+Transaktionssteuerung | ROLLBACK, COMMIT
+
 ### Abfragen
 
 Seletionsabfragen: SELECT, SELECT mit JOIN, SELECT mit Unterabfragen, SELECT mit Self-Join, SELECT mit Aggregatfunktionen
 
 ### Resources
-[w3schools](www.w3schools.com)
+* [SQL Tutorial (w3schools)](www.w3schools.com)

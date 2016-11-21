@@ -6,7 +6,7 @@ dass die Daten möglichst ohne Redundanz (doppelte Datenhaltung) und
 konsistent (ohne Widersprüche) sind. Ein Datenbanksystem besteht aus einem
 Datenbankmanagementsystem (DBMS) und den eigentlichen Daten.
 Das DBMS sorgt für eine sinnvolle Speicherung der Daten und stellt eine Möglichkeit 
-zur Abfrage der Daten zur Verfügung (beispielsweise SQL). Ebenso wird ein
+zur Abfrage der Daten zur Verfügung (beispielsweise [SQL](SQL)). Ebenso wird ein
 Mehrbenutzerbetrieb organisiert und eine Möglichkeit zur Berichtsgenerierung
 angeboten. Die höchste aktuelle Verbreitung hat das relationale Datenbanksystem
 mit mehr als 90% Verbreitung. Die objektorientierten Datenbanksysteme sind
