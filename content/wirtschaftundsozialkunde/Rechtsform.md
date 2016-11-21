@@ -7,5 +7,9 @@ Die Rechtsform eines Unternehmens nimmt Einfluss auf verschiedene Aspekte.
 ![Rechtsformen](https://www.businessplan-experte.de/wp-content/uploads/2015/07/businessplan-rechtsformen-uebersicht-tabelle.png)
 </a>
 
+### Begriffe
+
+* Prokura: Vollmacht
+
 ### Resources
 

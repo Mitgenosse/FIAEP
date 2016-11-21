@@ -202,10 +202,14 @@ Gut um schnell Inhalte zu finden.
     <dd>Die Unified Modeling Language ist eine ... Die neuste Spezifikation ist die UML 2.5.</dd>
     <dt><a href="Datensicherheit">Unterbrechungsfreie Stromversorgung (USV)</a></dt>
     <dd></dd>
+    <dt><a href="Unternehmen">Unternehmen</a></dt>
+    <dd>Industriegebiete, Zusammenschluss.</dd>
     <dt><a href="Use-Case-Diagramm">Use-Case-Diagramm</a></dt>
     <dd></dd>
 
-<dt><a href="Virtualisierung">Virtualisierung</a></dt>
+<dt><a href="Vertragsarten">Vertragsarten</a></dt>
+    <dd>Im Handelsgesetzbuch (HGB) werden verschiedene Arten von Verträgen aufgeführt.</dd>
+    <dt><a href="Virtualisierung">Virtualisierung</a></dt>
     <dd>Virtuelle Maschine und Co.</dd>
     <dt><a href="VLAN">Virtual Local Area Network (VLAN)</a></dt>
     <dd></dd>
