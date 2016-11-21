@@ -8,7 +8,9 @@ Gut um schnell Inhalte zu finden.
 
 <hr />
 
-<dt><a href="ACL">Aktivitätsdiagramm (UML)</a></dt>
+<dt><a href="AIDA">AIDA-Formel / AIDA-Modell</a></dt>
+    <dd></dd>
+    <dt><a href="ACL">Aktivitätsdiagramm (UML)</a></dt>
     <dd></dd>
     <dt><a href="Aktivitaetsdiagramm">Aktivitätsdiagramm (UML)</a></dt>
     <dd></dd>
