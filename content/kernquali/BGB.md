@@ -6,11 +6,13 @@
 
 Das BGB ist in 5 Bücher unterteilt, welche jeweis aufeinander aufbauen:
 
-* Buch 1 | §§ 1 - 240 | Allgemeiner Teil
-* Buch 2 | $$ 241 - 853 | Recht der Schuldverhältnisse
-* Buch 3 | §§ 854 - 1296 | Sachenrecht
-* Buch 4 | §§ 1297 - 1921 | Familienrecht
-* Buch 5 | $$ 1922 - 2385 | Erbrecht
+Buchnummer | Paragraphen | Teil
+--- | --- | ---
+Buch 1 | §§ 1 - 240 | Allgemeiner Teil
+Buch 2 | $$ 241 - 853 | Recht der Schuldverhältnisse
+Buch 3 | §§ 854 - 1296 | Sachenrecht
+Buch 4 | §§ 1297 - 1921 | Familienrecht
+Buch 5 | $$ 1922 - 2385 | Erbrecht
 
 Buch | Inhalt
 --- | ---
@@ -22,3 +24,4 @@ Buch | Inhalt
 
 ### Resources
 * [buergerliches-gesetzbuch.info](http://www.buergerliches-gesetzbuch.info/)
+* [Bürgerliches Gesetzbuch (Wikipedia)](https://de.wikipedia.org/wiki/B%C3%BCrgerliches_Gesetzbuch)

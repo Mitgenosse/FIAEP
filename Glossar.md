@@ -16,6 +16,8 @@ Gut um schnell Inhalte zu finden.
     <dd></dd>
     <dt><a href="Android">Android (Betriebssystem)</a></dt>
     <dd></dd>
+    <dt><a href="Ausbildung">Ausbildung</a></dt>
+    <dd></dd>
     <dt><a href="Anwendungsfalldiagramm">Anwendungfalldiagramm (UML)</a></dt>
     <dd>Auch Use-Case-Diagramm. Analysiert die Funktionalitäten der Anwendung.</dd>
     <dt><a href="Applikation">Applikation</a></dt>
@@ -100,7 +102,9 @@ Gut um schnell Inhalte zu finden.
 <dt><a href="Java">Java (Programmiersprache)</a></dt>
     <dd></dd>
 
-<dt><a href="Kaufvertrag">Kaufvertrag</a></dt>
+<dt><a href="Kaufmann">Kaufmann</a></dt>
+    <dd></dd>
+    <dt><a href="Kaufvertrag">Kaufvertrag</a></dt>
     <dd></dd>
     <dt><a href="GA2">Kernqualifikation</a> (ganzheitliche Aufgabe 2)</dt>
     <dd>Die Kernqualifikation (ganzheitliche Aufgabe 2 / GA2) stellt den zweiten Aufgabenteil der schriftlichen Prüfung dar.</dd>
@@ -149,7 +153,9 @@ Gut um schnell Inhalte zu finden.
     <dt><a href="Pseudocode">Pseudocode</a></dt>
     <dd></dd>
     
-<dt><a href="RAID">Redundant Array of Independent Disks (RAID)</a></dt>
+<dt><a href="Rechtsform">Rechtsform Unternehmen</a></dt>
+    <dd></dd>
+    <dt><a href="RAID">Redundant Array of Independent Disks (RAID)</a></dt>
     <dd></dd>
     <dt><a href="Refactoring">Refactoring</a></dt>
     <dd></dd>
@@ -178,6 +184,8 @@ Gut um schnell Inhalte zu finden.
     <dd></dd>
     <dt><a href="Softwarequalitaet">Softwarequalität</a></dt>
     <dd></dd>
+    <dt><a href="Sozialversicherung">Sozialversicherungen</a></dt>
+    <dd></dd>
     <dt><a href="Speichersystem">Speichersystem</a></dt>
     <dd>DAS, NAS und SAN</dd>
     <dt><a href="Spiralmodell">Spiralmodell</a></dt>
@@ -185,6 +193,9 @@ Gut um schnell Inhalte zu finden.
     <dt><a href="SQL">Structured Query Language (SQL)</a></dt>
     <dd></dd>
     <dt><a href="Struktogramm">Struktogramm</a></dt>
+    <dd></dd>
+    
+<dt><a href="Tarifvertrag">Tatrifvertrag / Tarifverträge</a></dt>
     <dd></dd>
     
 <dt><a href="UML25">Unified Modeling Language (UML)</a></dt>
