@@ -18,5 +18,13 @@ Beispiel:
 ![Beispiel Gantt Diagramm](http://www.gantt.com/images/simple-gantt-chart.gif)
 
 
+### Der Kritische Pfad
+
+Der kritische Pfad bezeichnet eine Kette von Aufgaben deren Dauer die
+Gesamtprojektdauer bestimmt. Diese Aufgaben sind voneinander abhängig und
+haben keinen Zeitpuffer. Der kritische Pfad hilft Engpässe im Projektablauf
+zu frühzeitig identifizieren.
+
 ### Resources
 * [Gantt Chart (Gantt.com)](http://www.gantt.com/)
+* [Gantt Diagramm und kritischer Pfad klassische Planung im Projektmanagement](https://www.inloox.de/unternehmen/blog/artikel/gantt-diagramm-und-kritischer-pfad-klassische-planung-im-projektmanagement/)
