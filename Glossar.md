@@ -40,7 +40,7 @@ Gut um schnell Inhalte zu finden.
     <dt><a href="Bit">Bit (Einheit)</a></dt>
     <dd>Bit, Byte, MiBit, MiByte. Sowas.</dd>
     <dt><a href="Broker">Broker-Architekturmuster</a></dt>
-    <dd></dd>
+    <dd>Software Architekturmuster zur Strukturierung veteilter Softwaresysteme mit entkoppelten, entfernten Komponenten.</dd>
     <dt><a href="Browser">Browser</a></dt>
     <dd></dd>
     <dt><a href="BGB">Bürgerliches Gesetzbuch (BGB)</a></dt>
@@ -143,7 +143,9 @@ Gut um schnell Inhalte zu finden.
     <dt><a href="OSI">Open Systems Interconnection model (OSI model)</a></dt>
     <dd></dd>
 
-<dt><a href="Planung">Planung (Software)</a></dt>
+<dt><a href="Pipes-Filters-Architektur">Pipes und Filter Architektur</a></dt>
+    <dd>Software Architekturmuster, auch Datenfluss-System genannt.</dd>
+    <dt><a href="Planung">Planung (Software)</a></dt>
     <dd></dd>
     <dt><a href="Programmablaufplan">Programmablaufplan (PAP)</a></dt>
     <dd></dd>

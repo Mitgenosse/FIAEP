@@ -50,14 +50,41 @@ SELECT * from Customers;
 SELECT NAME, AGE FROM Customers;
 // Abfrage mit Bedingung (WHERE). Selektiere alle Spalten von Customers wessen Alter über 16 ist.
 SELECT * FROM Customers WHERE AGE > 16;
+// Abfrage mit Literalabfrage. Selektiere alle Spalten die den Name 'Joe' beinhalten.
+SELECT * FROM Customers WHERE Name='Joe';
 // Abfrage mit DISTINCT, sodass doppelte Einträge in der Anzeige entfernt werden.
 SELECT DISTINCT NAME FROM Customers;
 ```
 
 /* TODO: mehr Abfragen einbauen */
 
+#### Join
+
+Join wird verwendet um Reihen von zwei oder mehr Tabellen basierend auf einem gemeinsamen Feld (Bedingung) zu vereinen.
+
+```
+// Selektiere OrderID, CustomerName und OderDate aus Orders, wenn die Einträge CustomerID der Zeilen übereinstimmen.
+SELECT Orders.OrderID, Customers.CustomerName, Orders.OrderDate
+FROM Orders
+INNER JOIN Customers
+ON Orders.CustomerID=Customers.CustomerID
+```
+
+#### Unterabfragen
+
+SQL Abfragen können in andere SQL Abfragen eingebettet werden.
+Geschieht dies in einer WHERE oder HAVING Anweisung ergibt dies eine
+Unterabfrage.
+
+```
+// Selektier alles von Customers wenn Die PostalID aus Staedte zu dem Name Berlin passt.
+SELECT * 
+FROM Customers
+WHERE PostalID = (SELECT PostalID FROM Staedte WHERE Name='Berlin')
+```
 
 Seletionsabfragen: SELECT, SELECT mit JOIN, SELECT mit Unterabfragen, SELECT mit Self-Join, SELECT mit Aggregatfunktionen
 
 ### Resources
 * [SQL Tutorial (w3schools)](http://www.w3schools.com/sql/sql_intro.asp)
+* [SQL Unterabfragen (1keydata.com)](http://www.1keydata.com/de/sql/sql-unterabfrage.php)
